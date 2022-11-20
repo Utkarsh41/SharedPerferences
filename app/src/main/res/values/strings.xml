@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SharedPerferences</string>
+    <string name="enter_data">Enter data</string>
+    <string name="enter_number">Enter Number</string>
+</resources>
